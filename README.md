@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Applemacswift
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in work ios developer
 - 🌱 I’m currently learning in Netology
-- 💞️ I’m looking to collaborate ...
+- 💞️ Let's conquer the peaks together ...
 - 📫 How to reach me telegram @andrei_chepkasov, mobile: +7 922 3000 446
